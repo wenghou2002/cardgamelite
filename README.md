@@ -25,10 +25,10 @@ Standard 52-card deck with the following card mapping:
 | A@    | A#    | A^    | A*    |       |       |       |       |       |       |       |       |
 
 Symbol mapping:
-- @ = Spade (♠)
-- \# = Heart (♥)
-- ^ = Diamond (♦)
-- \* = Club (♣)
+- @ = Club (♣) 
+- \# = Diamond (♦) 
+- ^ = Heart (♥)
+- \* = Spade (♠)
 
 Card values range from 2 (lowest) to A (Ace, highest).
 
